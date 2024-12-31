@@ -39,7 +39,7 @@ This project showcases a beautifully designed sales dashboard built in Power BI,
 
 ## Screenshots
 
-![Sales Dashboard Screenshot](path/to/screenshot.png)
+![Sales Dashboard Screenshot]([path/to/screenshot.png](https://github.com/hashaam-zahid/PowerBI/blob/master/powerbi.png))
 
 ## Contributing
 
