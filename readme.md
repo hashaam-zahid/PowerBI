@@ -38,8 +38,7 @@ This project showcases a beautifully designed sales dashboard built in Power BI,
 3. Monitor key sales metrics and trends for better decision-making.
 
 ## Screenshots
-
-![Sales Dashboard Screenshot]([path/to/screenshot.png](https://github.com/hashaam-zahid/PowerBI/blob/master/powerbi.png))
+![Sales Dashboard Screenshot](https://github.com/hashaam-zahid/PowerBI/blob/master/powerbi.png)
 
 ## Contributing
 
